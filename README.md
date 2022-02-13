@@ -1,0 +1,2 @@
+# Artificial-Intelligence-in-Helthcare
+IIM_Skill_Assignment_White Paper_Artificial Intelligence in Healthcare
